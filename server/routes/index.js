@@ -12,5 +12,6 @@ module.exports = router
     .post('/register', register)
     .get('/post', getAll)
     .get('/post/:idUser', getPostByUser)
-    .use('/post', require('./post.route'));
+    .use('/post', require('./post.route'))
+    .use('/like', require('./like.route'));
     // .post('/verify', token.verify, verify)
