@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { register, signin } = require('../controllers/user.controller');
+const { getAll, getPostByUser } = require('../controllers/post.controller');
 // const token = require('../middlewares/token.middleware');
 
 module.exports = router
@@ -9,5 +10,7 @@ module.exports = router
     }))
     .post('/signin', signin)
     .post('/register', register)
+    .get('/post', getAll)
+    .get('/post/:idUser', getPostByUser)
+    .use('/post', require('./post.route'));
     // .post('/verify', token.verify, verify)
-    // .use('/articles', require('./article.route'))

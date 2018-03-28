@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "todo-fancy-198004",
+  "private_key_id": "108b384ed74151a814c419ee4618e4dd16a68485",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMM6IJ4N817mI7\ntTV1LW0yX6UM4qas50jJTsoGLykBvro+3qsDelaUCiM5d6U8x7a5w/b0WswVDWmp\nLOIVuMkJ/voIiweAvsAZeGeujXaz5e7bOrrviwr7ysc7M/bOjl4yGw6cOhC/+dek\njGqop+aX0qqfuf7DCjRkytJg5c0e0NGBAX6VgOGpfjHLSxv7FCJxmPgXSYz46Vzk\nnyfVCJiiGJl2awGw9yCFeR3c8tqOpAUzse8k6Wo9t7vJa4wo9kVU9n0ST2gS8Qnu\nvIJOw+iZbORHresdgV0XfMvrwwEmjugk7MfYmP5dnKlhMROYob0NJDzw73uYXXiN\n4kQLBYkPAgMBAAECggEAP2FpUoKbFXy7vceVY5zpb0CzlIfG7xTMiTssxnWd1z5R\nRZFMaERxGfr5iu1BeteMNiWGgbqq7H/gw1M8izxzHeinx74LYqESM/WkzM94wAbG\nuAIHIrG4A4Yhh5Ut7lfPEeNHCiOVrliIX7j7pASVNJt9PR14XyZMM9qmKNA69eyR\nQTQSp3tZMrBxJWQl8I5vh0lztdFl/mEjdN+NsXGAxZq5qNsvhajYLva+wEft2bpP\ny4onZwg2vM/mH6dLby21c3SB5Brkwq8fHW3O27Pg6dqgT1bASy8H9+vGcWaBevso\nes7EWLBg9U3UFyT3KqtShzSN6XGaEdx8vkF5cDhbjQKBgQD2GMcIAft7VKm7wknf\nWHlzAgKdgGQ9WXUL9X3+NT3CY79W3RBP/pH+mLXntDSD6A/1v8yu3hal5IqNpq9z\nA/HCsN9B8HwzS2kqREYkux/IXXkrXhEt51oetLFJO/3KDrrB4Oqf0SBt0Xp3fUke\nndwBlSMa4AL1Zv/wBwAe0vpL4wKBgQDUa0N4OWYq4pfXNpP+cxc5+exPaRQKun3m\n2qQPOhooesavMeZ8GUyDAKRBeqhgNQVYTbGtk3Pb+f/4EcPHw2l5BIF7kqDJHn7P\nA9/OZu+SepgLRRrw382CjCchvcWekwXJH6py5Gso3nSY4xsxfLHlS4cRkSp/2BeY\ntu47HvBt5QKBgGiezfYsiZG7w1Cr3yXRAgiPgTcd/v9JyYWk/sQUNEYwi4ZNAoNP\ncRdwKlzvciflfut1d3mbtrsdtn1TsGDP+3ZOJQtuRg60b2flkIBLAM74VevG2LzQ\nDrLhFEFS/KhqrKCBkp0QlZ26ITstCum2KHKPyVXCh991wzZyc22nOXsLAoGBAMtB\nkB/cHKzwgYaHTPlvO0xYnwwlae4SISLjF5USbbFKOg+t2fPpaVL5LDMToUXdti2W\numty6qwU/h9rMEFX9Pa9nwCVf5Cyw3hnJqKj0J4C/LXb/Dl8jXNblJ4urohb+m9H\nA5xIgVlr83nP5ldmD/tuV+IxW89VAM86S576rekZAoGADpTUtiY72HU2O5t5kbhA\n8ZAQ0QgG10+d4A302EHSP8xkqx2qboBTxAp64q0JI++PILW2uPXnPsLymACyauky\noHjs3XRt1mb9dkEvKw6Tn/pBltj3d3t6K3rk1UuaOKcTvOKpPaGL+yThVYJb06YR\nfN5USYfy8pZeZg916/Negi0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage@todo-fancy-198004.iam.gserviceaccount.com",
+  "client_id": "116345555564264668733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage%40todo-fancy-198004.iam.gserviceaccount.com"
+}

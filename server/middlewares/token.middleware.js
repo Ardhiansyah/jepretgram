@@ -9,9 +9,9 @@ module.exports = {
     
     try {
       let decode = jwt.verify(request.headers.token, process.env.SECRET);
-      request.body.id = decode.id;
-      request.body.name = decode.name;
-      request.body.email = decode.email;
+      request.headers.id = decode.id;
+      request.headers.name = decode.name;
+      request.headers.username = decode.username;
       next();
     } catch (error) {
       return response.status(403).send({ message: 'The user might not have the necessary permissions for a resource'})
