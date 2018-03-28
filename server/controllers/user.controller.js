@@ -39,5 +39,11 @@ module.exports = {
     });
   },
 
-  // verify: (req, res) => {}
+  verify: (req, res) => {
+    return res.status(200).send({
+      id: req.headers.id,
+      name: req.headers.name,
+      username: req.headers.username,
+    });
+  }
 }
